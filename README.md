@@ -8,6 +8,5 @@ Low round-trip audio latency is a strong indicator of how well any web browser a
 
 The test emits a beep using device speakers that it listens for on the device's microphone. The time difference between emission and capture of the beep is the lag or audio latency. Lower is better, and 10ms or lower is considered professional audio quality.
 
-## Homepage (with latency data)
-
-https://superpowered.com/webbrowserlatency
+## Fork
+This is a fork of Superpowered's latency measurer, but with some extended functionalities, and without the logging back to them
